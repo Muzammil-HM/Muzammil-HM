@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/muzammil hussain" target="blank"><img src="https://img.shields.io/twitter/follow/muzammil hussain?logo=twitter&style=for-the-badge" alt="muzammil hussain" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Frontend Web Development**
 
 - Recently I have created a responsive website [Mono Website (Community)](https://muzammil-hm.github.io/First-Capstone-Project/)
 
